@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/AAM3.wav-c4320260c06de6d2e60f41ff0921281f.sample"
+
+[deps]
+
+source_file="res://Sounds/AAM3.wav"
+dest_files=[ "res://.import/AAM3.wav-c4320260c06de6d2e60f41ff0921281f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
